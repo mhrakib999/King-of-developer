@@ -18,7 +18,7 @@ body{
     padding-left : 2%;
 }
 .half-width-img{
-    width: 80%;
+    width: 30%;
 }
 .hire-me-button{
     text-decoration: none;
@@ -51,6 +51,7 @@ body{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin: 0;
 }
 
 .experience-area{
